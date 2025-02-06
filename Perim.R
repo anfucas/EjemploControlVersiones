@@ -5,3 +5,7 @@ PerimetroCuadrado <- function(L){
 LongitudCircunferencia <- function(R){
   return(2*pi*R)
 }
+
+AreaTrapecio <- function(B, b, H){
+  return((B+b)/2*h)
+}
