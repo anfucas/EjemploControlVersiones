@@ -11,5 +11,5 @@ AreaTrapecio <- function(B, b, H){
 }
 
 PerimetroRectangulo <- function(L, l){
-  return(2*(b+h))
+  return(2*(L+l))
 }
